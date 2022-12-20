@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">Learning python :)</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **nala.c.ward@gmail.com**
+chicago public schools student. 
+learning python :) 
+experience:
+-IdealStudentStartup Hackathon 
+-Arduino Programming and Circuits @ NEIU
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/alanisslow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanisslow" height="30" width="40" /></a>
+<a href="https://instagram.com/alancahillward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alancahillward" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@alanward8012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alanward8012" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/acward7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="acward7" height="30" width="40" /></a>
 </p>
 
