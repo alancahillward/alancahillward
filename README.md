@@ -1,6 +1,6 @@
 - Alan Cahill Ward
 - I'm currently learning python :).
-- I started developing in 8th grade learning Arduino.
+- I started developing in 9th grade learning Arduino.
 - I'm currently learning more about Python GUI development.
 - You can contact me through email **nala.c.ward@gmail.com** or instagram **@alancahillward**
 - Apprenticeships: IdealStudentStartup Hackathon and Arduino Programming and Circuits @ NEIU
