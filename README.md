@@ -5,5 +5,5 @@
 - I am the president of my high schools cybersecurity team and am well versed in the topic.
 - Apprenticeships: IdealStudentStartup Hackathon and Arduino Programming and Circuits @ NEIU
 - 🗣Hablo español un poco porque lo aprendí en la escuela durante tres años y hablo la idioma en el trabajo.
-- 🗣J'apprends le français depuis 1ans, mais je ne parles pas encore français.
+- 🗣J'apprends le français depuis 1ans, mais je ne parle pas encore français.
 
